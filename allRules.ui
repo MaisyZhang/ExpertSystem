@@ -6,33 +6,22 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>329</width>
-    <height>215</height>
+    <width>387</width>
+    <height>532</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="label">
+   <widget class="QTextBrowser" name="textBrowser">
     <property name="geometry">
      <rect>
-      <x>110</x>
-      <y>50</y>
-      <width>101</width>
-      <height>41</height>
+      <x>0</x>
+      <y>0</y>
+      <width>381</width>
+      <height>481</height>
      </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>Agency FB</family>
-      <pointsize>14</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="text">
-     <string>谢谢使用！</string>
     </property>
    </widget>
   </widget>
@@ -41,7 +30,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>329</width>
+     <width>387</width>
      <height>23</height>
     </rect>
    </property>

@@ -1,3 +1,8 @@
-# ExpertSystem
-Rule-based expert system
-Rule-based expert system
+## 基于规则的专家系统--疾病检测
+
+专家系统的由这四部分构成：
+
+* 规则的表示
+* 推理引擎的构建：基于前向推理机
+* 知识库的构建
+* 人机交互界面
